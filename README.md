@@ -11,7 +11,6 @@ yarn add stock-logos
 ## Usage
 
 import { StockLogo } from 'stock-logos';
-
 <StockLogo symbol="TCS" size={40} />
 
 
